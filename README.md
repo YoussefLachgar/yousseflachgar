@@ -9,10 +9,21 @@
 <br/>
 
 <p align="left"> <img width="400" src="https://komarev.com/ghpvc/?username=yousseflachgar&label=Profile%20views&color=0e75b6&style=flat" alt="yousseflachgar" /> </p>
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Java, Flutter**
+
+ 📫 How to reach me **lachgar.youssef0@gmail.com**
+
+ </div>
 
 - 💬 Ask me about **java, React js , Node js**
 
-- 📫 How to reach me **lachgar.youssef0@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
