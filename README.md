@@ -12,7 +12,7 @@
  
  🔭 I am currently a student engineer **in software engineering**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, AWS, Microservices, Flutter...**
 
 💬 Ask me about **Node.js, React, Java, Flutter**
 
