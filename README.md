@@ -1,7 +1,12 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*U62pEikCBvM1gjIDlAry7Q.png)]
-<h1 align="center">Hi 👋, I'm Youssef Lachgar</h1>
-<h3 align="center">A passionate developer from Moroco</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" >
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Youssef+Lachgar!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Moroco 🇨🇦</h3>
+
+<br/>
 
 <p align="left"> <img width="400" src="https://komarev.com/ghpvc/?username=yousseflachgar&label=Profile%20views&color=0e75b6&style=flat" alt="yousseflachgar" /> </p>
 
