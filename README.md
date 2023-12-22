@@ -8,10 +8,9 @@
 
 <br/>
 
-<p align="left"> <img width="400" src="https://komarev.com/ghpvc/?username=yousseflachgar&label=Profile%20views&color=0e75b6&style=flat" alt="yousseflachgar" /> </p>
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I am currently a student engineer **in software engineering**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
