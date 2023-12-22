@@ -20,8 +20,6 @@
 
  </div>
 
-- 💬 Ask me about **java, React js , Node js**
-
 
 
 <h3 align="left">Connect with me:</h3>
