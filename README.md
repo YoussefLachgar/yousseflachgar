@@ -11,6 +11,8 @@
 <div align="center">
  
  🔭 I am currently a student engineer **in software engineering**
+
+ ⚒️ I am currently working on a project using  **Angular for the frontend and Spring Boot for the backend**
  
  🌱 I’m currently learning **Docker, AWS, Microservices, Flutter...**
 
